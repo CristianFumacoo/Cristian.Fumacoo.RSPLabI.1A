@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1627480563 source:c:\users\cris\documents\cosasfacu\recusegundolabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"bicicletas.h"
+	"LinkedList.h"
+	"controller.h"
+	"parser.h"
+
+1627480285 source:c:\users\cris\documents\cosasfacu\recusegundolabo\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicletas.h"
+	"LinkedList.h"
+
+1627480850 c:\users\cris\documents\cosasfacu\recusegundolabo\bicicletas.h
+	"LinkedList.h"
+
+1627479402 c:\users\cris\documents\cosasfacu\recusegundolabo\linkedlist.h
+
+1627480089 source:c:\users\cris\documents\cosasfacu\recusegundolabo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicletas.h"
+
+1627475126 source:c:\users\cris\documents\cosasfacu\recusegundolabo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"bicicletas.h"
+
+1627473265 c:\users\cris\documents\cosasfacu\recusegundolabo\parser.h
+	"LinkedList.h"
+
+1627480424 source:c:\users\cris\documents\cosasfacu\recusegundolabo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"bicicletas.h"
+	"LinkedList.h"
+
+1625658032 c:\users\cris\documents\cosasfacu\recusegundolabo\controller.h
+
+1627480174 source:c:\users\cris\documents\cosasfacu\recusegundolabo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
